@@ -1,5 +1,6 @@
-65b2f690ef9e110569f9f431aa426c20 *DESCRIPTION
-b13c545593936422f85e43832502b30f *R/rrdflibs.R
+a53af1869b7d851a8f9e2c6f5346e8e8 *DESCRIPTION
+865cbbadc04209cdcc90342befd2d8af *NAMESPACE
+34b9074c49bc17bfd062343456ff99de *R/rrdflibs.R
 5a941be9a0ba1d36efa7b29d20f71ef9 *inst/java/arq-2.8.7.jar
 82b899580da472be37055da949b731fa *inst/java/commons-codec-1.4.jar
 ed448347fc0104034aa14c8189bf37de *inst/java/commons-logging-1.1.1.jar
